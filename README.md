@@ -15,11 +15,13 @@ If statement
 https://github.com/delcode92/GRUP-BELAJAR/blob/8665509457c35a6c7f2c82457c1bf16e88cc381a/main.py?plain=1#L4-L7
   
 &nbsp;
+    
 else statement
     else adalah sebuah pernyataan yang akan menangkap kondisi apapun yang tidak ditangkap oleh kondisi sebelumnya.
 https://github.com/delcode92/GRUP-BELAJAR/blob/8665509457c35a6c7f2c82457c1bf16e88cc381a/main.py?plain=1#L10-L15
 
 &nbsp;
+    
 Elif statement
     
 

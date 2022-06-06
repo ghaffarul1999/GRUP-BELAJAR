@@ -1,5 +1,11 @@
 # Sumber = https://www.w3schools.com/python/default.asp
 
+# variable
+x = 5
+y = "John"
+print(x)
+print(y)
+
 # If
 a = 33
 b = 200

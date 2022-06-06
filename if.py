@@ -1,13 +1,5 @@
-# If statement
-
-orang = 100
-zombie = 100
-
-if orang < zombie:
-    print("Kabur, dunia mau kiamat")
-
-if orang > zombie:
-    print("Mari basmi zombie")
-
-if orang == zombie:
-    print("Mari bersiap berperang")
+# Sumber = https://www.w3schools.com/python/python_conditions.asp
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")

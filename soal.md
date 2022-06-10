@@ -76,3 +76,62 @@ output: Tidak ada bonus
 
 
 
+
+### 5) buat function yang bisa mencari nilai tengah dalam sebuah list (bilangan berupa integer)
+
+#### case 1:
+input--> [10, 12, 18, 19, 21, 23]
+output --> 18.5
+
+
+#### case 2:
+input--> [13, 17, 18, 21, 23]
+output --> 18
+
+
+
+
+
+### 6) buat function yang bisa mencari nilai rata-rata dari sebuah list (bilangan berupa integer)
+
+#### case 1:
+input--> [10, 12, 18, 19, 21, 23]
+output --> 17.16
+
+
+#### case 2:
+input--> [13, 17, 18, 21, 23]
+output --> 18.4
+
+
+
+
+
+
+### 7) buat function yang bisa group data dalam sebuah list (artinya remove data yg duplicate sisakan satu)
+
+#### case 1:
+input--> [10, 12, 18, 19, 21, 18, 23] 
+output --> [10, 12, 18, 19, 21, 23] --> nilai 18 yg awalnya 2 buah data di remove duplicate nya, sisakan satu aja
+
+
+
+#### case 2:
+input--> [13, 17, 18, 21,13, 13, 23, 17, 18]
+output --> [13, 17, 18, 21, 23] --> nilai 13, 17 dan 18 di remove duplicate nya 
+
+
+
+
+
+### 8) buat function yang bisa menentukan nilai apa yang paling sering muncul dalam sebuah list (nilai dalam bentuk integer)
+
+#### case 1:
+input--> [10, 12, 18, 19, 10, 21, 18, 23, 10] 
+output --> 10 , muncul sebanyak 3 kali
+
+
+
+#### case 2:
+input--> [10, 23, 12, 18, 23,19, 10, 21, 18, 23, 10] 
+output --> 23 dan 10 , muncul sebanyak 3 kali

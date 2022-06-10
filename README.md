@@ -1,3 +1,5 @@
+![learn python](/assets/images/159-1595848_python-logo-png-transparent-background-python-logo-png.png)
+
 # GRUP-BELAJAR
 # Jika ada yang salah, bisa diedit/kalau ada masukkan boleh juga ditambah yea kawand
 

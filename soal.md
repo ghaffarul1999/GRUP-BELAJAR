@@ -12,7 +12,7 @@ output(level 2) --> bilangan genap dalam list ada 2 buah, yaitu 6 dan 8
 ### Note: 
 untuk output level 2 menggunakan kata "dan" jika jumlah bilangan lebih daripada satu
 
-
+_________________________________________________________________________________________________________________________________
 
 ### 2) buat program yang bisa mencari jumlah bilangan ganjil, dalam sebuah list & tampilkan angka-angka nya
 

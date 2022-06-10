@@ -45,8 +45,8 @@ def removeEvenNum(data):
 
     return data
 
-x = removeEvenNum(d)
+x = removeEvenNum([10,5,6,6])
 
-print( [10,5,6,6] )
+print( x )
 
 

@@ -32,7 +32,7 @@ if a:
     f = someFunct
 
 for x in list_of_attribs:
-    f()
+  f()
 
 _________________________________________________ or _________________________________________________
 
@@ -49,4 +49,4 @@ if a:
     f = someFunct
 
 for x in list_of_attribs:
-    f()
+  f()

@@ -1,6 +1,6 @@
 #### method in python:
 
-1) instanace method
+1) instance method
 2) class method
 3) static method
 
@@ -17,3 +17,36 @@ How to call method:
 
 2)use self or object from that class, but your method must contain "self" parameter. Otherwise your first parameter
 will contain reference object/instance from this class. or it will display "takes 0 positional arguments but 1 was given"
+
+_________________________________________________________________________________________________
+#### initialize empty function using lamda - sample 1
+
+def someFunct():
+    print("from some function")
+
+a = False
+f = lambda : ...
+
+
+if a:
+    f = someFunct
+
+for x in list_of_attribs:
+    f()
+
+_________________________________________________ or _________________________________________________
+
+#### initialize empty function using lamda - sample 2
+
+def someFunct():
+    print("from some function")
+
+a = False
+f = lambda : None
+
+
+if a:
+    f = someFunct
+
+for x in list_of_attribs:
+    f()

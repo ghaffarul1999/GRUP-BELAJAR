@@ -142,7 +142,7 @@ input--> [10, 23, 12, 18, 23,19, 10, 21, 18, 23, 10]
 output --> 23 dan 10 , muncul sebanyak 3 kali
 
 
-### 8) buat program yang bisa menampilkan dan menghitung nilai faktorial
+### 9) buat program yang bisa menampilkan dan menghitung nilai faktorial
 
 #### case 1:
 input--> 5

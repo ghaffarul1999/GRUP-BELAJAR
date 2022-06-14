@@ -160,9 +160,9 @@ ________________________________________________________________________________
 pada sebuah lab kimia yang membuat bahan peledak, terdapat beberapa atom/unsur kimia yg boleh digabungkan/dicampur dan ada atom yg tidak boleh dicampur. Jika dua/lebih dari bahan tersebut dicampur, maka akan terjadi reaksi spontan yg dapat menyebabkan ledakan yg tidak terkendali
 
 #### yg tidak boleh digabung:
-Pb -> B, Si, Sb, Te, Pd
-Re -> Ti, Db, Si
-Ac -> La, Fr, K, Db
+Pb -> B, Si, Sb, Te, Pd <br>
+Re -> Ti, Db, Si<br>
+Ac -> La, Fr, K, Db<br>
 
 buat program yang dapat memberikan peringatan jika ada elemen/unsur kimia yg tidak boleh digabung
 

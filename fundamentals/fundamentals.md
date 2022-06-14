@@ -62,3 +62,14 @@ list[-1] --> 13
 list[-2] --> 14
 
 ... dst
+
+
+_________________________________________________________________________________________________
+
+#### list comprehension( operation inside list )
+
+val = [1,2,3,4,5]
+x_val = 4
+new_val = [d for d in val if d != x_val]
+
+--> val = [1,2,3,5]

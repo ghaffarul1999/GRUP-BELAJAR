@@ -170,9 +170,9 @@ buat program yang dapat memberikan peringatan jika ada elemen/unsur kimia yg tid
 input--> [Pb, Re, Db, Si, La]
 
 #### output: 
-Pb tidak boleh digabung dengan Si
-Re tidak boleh digabung dengan Db
-Re tidak boleh digabung dengan Si
+Pb tidak boleh digabung dengan Si<br>
+Re tidak boleh digabung dengan Db<br>
+Re tidak boleh digabung dengan Si<br>
 
 #### case 2:
 input--> [K, Fr, Re, B, Pb]

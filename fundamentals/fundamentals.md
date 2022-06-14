@@ -50,3 +50,13 @@ if a:
 
 for x in list_of_attribs:
   f()
+
+
+#### acces list item from backwards
+
+list = [10, 12, 14, 13]
+
+list[-1] --> 13
+list[-2] --> 14
+
+... dst

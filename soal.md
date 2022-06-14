@@ -149,3 +149,33 @@ ________________________________________________________________________________
 #### case 1:
 input--> 5
 output --> faktorialnya 1x2x3x4x5= 120
+
+
+________________________________________________________________________________________________________________________________
+
+
+### 10) buat program yang bisa menghandle conflict dari atom yang digabungkan
+
+#### problem:
+pada sebuah lab kimia yang membuat bahan peledak, terdapat beberapa atom/unsur kimia yg boleh digabungkan/dicampur dan ada atom yg tidak boleh dicampur. Jika dua/lebih dari bahan tersebut dicampur, maka akan terjadi reaksi spontan yg dapat menyebabkan ledakan yg tidak terkendali
+
+#### yg tidak boleh digabung:
+Pb -> B, Si, Sb, Te, Pd
+Re -> Ti, Db, Si
+Ac -> La, Fr, K, Db
+
+buat program yang dapat memberikan peringatan jika ada elemen/unsur kimia yg tidak boleh digabung
+
+#### case 1:
+input--> [Pb, Re, Db, Si, La]
+
+#### output: 
+Pb tidak boleh digabung dengan Si
+Re tidak boleh digabung dengan Db
+Re tidak boleh digabung dengan Si
+
+#### case 2:
+input--> [K, Fr, Re, B, Pb]
+
+#### output: 
+B tidak boleh digabung dengan Pb

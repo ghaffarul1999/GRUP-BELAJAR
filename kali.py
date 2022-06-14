@@ -1,4 +1,4 @@
 X = 5;
 y = 10;
-
-print(x)
+z = x*y;
+print(z)
